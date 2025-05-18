@@ -214,7 +214,7 @@ st.markdown(
     "<div style='text-align: center; color: gray;'>"
     "📧 Contact: support@bankchurn.com | "
     "© 2025 Bank Churn Analysis Dashboard |"
-    "👤 Developed by Abhishek Singh Dikhit"
+    "👤 Developed by Hitesh Patel"
     "</div>", unsafe_allow_html=True)
 
 st.balloons()
